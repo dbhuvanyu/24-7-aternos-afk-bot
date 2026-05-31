@@ -1,14 +1,14 @@
 {
   "name": "iass",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "iasss",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "s1-fusionsmp.aternos.me",
     "port": 41800,
-    "version": "1.20.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Make Sure to have fun and follow the rules!",
+        
       ]
     },
     "chat-log": true,

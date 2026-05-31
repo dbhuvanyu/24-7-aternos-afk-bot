@@ -1,7 +1,7 @@
 {
   "name": "iass",
   "bot-account": {
-    "username": "iasss",
+    "username": "FUSIONSMP",
     "password": "",
     "type": "offline"
   },
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Make Sure to have fun and follow the rules!",
+        "Make Sure to have fun and follow the rules!"
         
       ]
     },
